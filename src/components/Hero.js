@@ -1,7 +1,6 @@
 import React from 'react';
 import { FaArrowRight } from 'react-icons/fa';
 import profileImage from '../assets/Profile_Picture.jpeg';
-import resumePDF from '../assets/resume.pdf';
 
 const Hero = () => {
   return (
@@ -26,7 +25,7 @@ const Hero = () => {
                 <span>VIEW MY WORK</span>
                 <FaArrowRight className="ml-2" />
               </a>
-              <a href={resumePDF} target="_blank" rel="noopener noreferrer" className="btn-secondary px-6 py-3 rounded-md tech-font tracking-wider">
+              <a href="https://drive.google.com/file/d/1EAIeiCeiza2HhL1Ga6kp_n7gbhyMNoWz/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn-secondary px-6 py-3 rounded-md tech-font tracking-wider">
                 VIEW RESUME
               </a>
               <a href="#contact" className="btn-tertiary px-6 py-3 rounded-md tech-font tracking-wider">

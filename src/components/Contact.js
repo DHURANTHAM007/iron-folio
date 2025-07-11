@@ -1,6 +1,5 @@
 import React from 'react';
 import { FaLinkedin, FaGithub, FaMedium, FaInstagram, FaEnvelope, FaFileAlt } from 'react-icons/fa';
-import resumePDF from '../assets/resume.pdf';
 
 const Contact = () => {
   return (
@@ -19,7 +18,7 @@ const Contact = () => {
           <a href="mailto:anjosh753@gmail.com" className="social-icon text-3xl"><FaEnvelope /></a>
         </div>
         <div className="text-center">
-          <a href={resumePDF} target="_blank" rel="noopener noreferrer" className="btn-primary px-6 py-3 rounded-md tech-font tracking-wider inline-flex items-center">
+          <a href="https://drive.google.com/file/d/1EAIeiCeiza2HhL1Ga6kp_n7gbhyMNoWz/view?usp=drive_link" target="_blank" rel="noopener noreferrer" className="btn-primary px-6 py-3 rounded-md tech-font tracking-wider inline-flex items-center">
             <FaFileAlt className="mr-2" />
             <span>VIEW MY RESUME</span>
           </a>
