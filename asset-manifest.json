@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/iron-folio/static/css/main.afc1701d.css",
+    "main.js": "/iron-folio/static/js/main.be7e2b3c.js",
+    "static/js/453.eee9c64a.chunk.js": "/iron-folio/static/js/453.eee9c64a.chunk.js",
+    "static/media/Profile_Picture.jpeg": "/iron-folio/static/media/Profile_Picture.73febaa2db904af4591a.jpeg",
+    "index.html": "/iron-folio/index.html",
+    "main.afc1701d.css.map": "/iron-folio/static/css/main.afc1701d.css.map",
+    "main.be7e2b3c.js.map": "/iron-folio/static/js/main.be7e2b3c.js.map",
+    "453.eee9c64a.chunk.js.map": "/iron-folio/static/js/453.eee9c64a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.afc1701d.css",
+    "static/js/main.be7e2b3c.js"
+  ]
+}
